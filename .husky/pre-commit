@@ -1,0 +1,2 @@
+echo "🚀 Running Build"
+yarn build 
